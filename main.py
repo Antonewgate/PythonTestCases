@@ -15,3 +15,6 @@ def TransmitMsg():
     threading.Timer(Period,TransmitMsg).start()
 
 TransmitMsg()
+
+print("soy")
+printo("segundo soy")
