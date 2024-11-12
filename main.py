@@ -1,7 +1,7 @@
 import threading
 import time
 import random
-
+print("just 1 hour to change the world")
 BCM_info = {"ID":0x123, "Channel":1, "DLC":1,"Data":{"VehicleSpeed":0}}
 Period = 0.25
 SpeedSample = []
