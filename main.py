@@ -34,4 +34,4 @@ class numero():
 
 uno = numero("tony")
 print(uno.nommbre)
-print("chale no aparece el merge")
+print("ya aparecio el merge")
