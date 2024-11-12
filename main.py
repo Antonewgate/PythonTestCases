@@ -18,3 +18,20 @@ TransmitMsg()
 
 print("soy")
 printo("segundo soy")
+
+print("esta es la version 1")
+
+for item in range(1):
+    print(f"este es el 4to commit pero priemra modificacion")
+
+print("modificandolo un poco")
+
+
+class numero():
+    def __init__(self, nom):
+        self.nommbre= nom
+        self.profesion = "ingeniero"
+
+uno = numero("tony")
+print(uno.nommbre)
+print("chale no aparece el merge")
